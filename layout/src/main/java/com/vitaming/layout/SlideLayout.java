@@ -19,7 +19,6 @@ import java.util.List;
 /**
  * @author Ming
  * 1/4/21
- * todo 间隔
  */
 public class SlideLayout<T> extends ViewGroup {
     private BaseAdapter<T> baseAdapter;
